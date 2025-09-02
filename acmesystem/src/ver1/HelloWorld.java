@@ -7,6 +7,16 @@ public class HelloWorld {
 		String Msg = "Hey Now!";
 
 		System.out.println(Msg);
+		
+
+	}
+	
+	public static void whatFor() {
+
+		String Msg = "Ayyyyyeeee what was that forrrrr?!";
+
+		System.out.println(Msg);
+		
 
 	}
 
